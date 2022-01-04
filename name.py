@@ -1,5 +1,7 @@
 def add():
     x = 3
     y = 4
-    print(x + y)
+    z = 5
+
+    print(x + y * z)
 add()
